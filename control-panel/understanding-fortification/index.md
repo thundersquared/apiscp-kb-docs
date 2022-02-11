@@ -45,4 +45,4 @@ The following diagram illustrates normal, min, and released fortification modes 
 
 ## See Also
 
-- [Fortification](https://apnscp.com/php-fortification) (apnscp.com)
+- [Fortification](https://docs.apiscp.com/admin/Fortification/) (docs.apiscp.com)

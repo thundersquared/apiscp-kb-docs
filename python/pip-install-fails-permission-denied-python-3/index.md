@@ -1,5 +1,5 @@
 ---
-title: "pip install fails with "Permission denied" on Python 3+"
+title: 'pip install fails with "Permission denied" on Python 3+'
 date: "2015-03-03"
 ---
 

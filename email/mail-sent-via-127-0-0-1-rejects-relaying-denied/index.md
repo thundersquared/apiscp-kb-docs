@@ -1,5 +1,5 @@
 ---
-title: "Mail sent via 127.0.0.1 rejects with "Relaying Denied""
+title: 'Mail sent via 127.0.0.1 rejects with "Relaying Denied"'
 date: "2016-10-24"
 ---
 
